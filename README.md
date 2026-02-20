@@ -69,15 +69,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash63_web&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash63-web&show_icons=true&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash63_web&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash63-web&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash63_web&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash63-web&layout=compact&theme=tokyonight">
 </p>
 
 ---
