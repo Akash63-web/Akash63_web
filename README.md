@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/akash-kumar-5a4ab52a1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://leetcode.com/u/Akash_6320/">
+  <a href="https://leetcode.com/u/PxGCumc3QQ/">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode">
   </a>
   <a href="mailto:akashkumar632005@gmail.com">
